@@ -2,8 +2,6 @@ import React from 'react';
 
 import './CourseGoalItem.css';
 
-console.log ('In CourseGoalItem Js');
-
 const CourseGoalItem = props => {
   // const [deleteText, setDeleteText] = useState('');
 

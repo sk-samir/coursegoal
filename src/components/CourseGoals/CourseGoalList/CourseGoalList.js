@@ -3,8 +3,6 @@ import React from 'react';
 import CourseGoalItem from '../CourseGoalItem/CourseGoalItem';
 import './CourseGoalList.css';
 
-console.log ('In CourseGoalList Js');
-
 const CourseGoalList = props => {
   return (
     <ul className="goal-list">
